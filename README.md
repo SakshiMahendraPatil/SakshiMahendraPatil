@@ -4,7 +4,7 @@ I'm Sakshi, 19 — just shipping cool things 🚀
 I'm exploring the world of development. Every line of code is a step toward something meaningful. ✨
 
 🌱 Currently Learning & Building With
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,git,github,vscode,tailwind" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,mongodb,git,github,vscode,tailwind" /> </p>
 🧠 About Me
 
 🔥 I’m curious, driven, and love experimenting with code.
