@@ -11,8 +11,9 @@ I'm exploring the world of development. Every line of code is a step toward some
 🌍 Currently growing my skills and learning the dev journey, one bug at a time 🐛
 
 🛠️ My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,,mongodb,nodejs,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,nodejs,vscode"/> </p>
 🚀 My Projects
+
 Project	Description	Tech
 AuthGram
 	A minimal Instagram-like app with user authentication and image uploads.	Node.js, Express, MongoDB, Multer, EJS, Tailwind
