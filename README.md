@@ -11,7 +11,7 @@ I'm exploring the world of development. Every line of code is a step toward some
 🌍 Currently growing my skills and learning the dev journey, one bug at a time 🐛
 
 🛠️ My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,python,cpp,webpack,mysql,typescript,aws,cs,django,git,laravel,html,css,bootstrap,tailwind,jquery,mongodb,nodejs,php,vscode,wordpress,vue,sass,graphql,postgres" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,,mongodb,nodejs,vscode" /> </p>
 🚀 My Projects
 Project	Description	Tech
 AuthGram
