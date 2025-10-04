@@ -1,21 +1,27 @@
-## Hi there 👋
-I’m Sakshi, a 19-year-old learner on a mission 🚀
+hey there!
+I'm Sakshi, 19 — just shipping cool things 🚀
 
-I’m exploring the world of development with **fierce enthusiasm** and a hunger to create **soulful ideas** that matter.  
+I'm exploring the world of development. Every line of code is a step toward something meaningful. ✨
 
-### 🌱 Currently learning & practicing
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+🌱 Currently Learning & Building With
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,git,github,vscode,tailwind" /> </p>
+🧠 About Me
 
-💡 About me
+🔥 I’m curious, driven, and love experimenting with code.
+🌍 Currently growing my skills and learning the dev journey, one bug at a time 🐛
 
-I believe every idea has a heartbeat, and I love giving mine to soulful ones.
+🛠️ My Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,python,cpp,webpack,mysql,typescript,aws,cs,django,git,laravel,html,css,bootstrap,tailwind,jquery,mongodb,nodejs,php,vscode,wordpress,vue,sass,graphql,postgres" /> </p>
+🚀 My Projects
+Project	Description	Tech
+AuthGram
+	A minimal Instagram-like app with user authentication and image uploads.	Node.js, Express, MongoDB, Multer, EJS, Tailwind
 
-No projects yet, but every line I write is a brick toward something meaningful.
+✨ This is just the beginning — bigger things loading...
 
-I’m driven, curious, and excited to connect with fellow learners & builders.
+🤝 Let’s Connect
+<p align="center"> <a href="https://github.com/sakshimahendra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+
+⭐ “Learning. Building. Evolving.”
 
 
